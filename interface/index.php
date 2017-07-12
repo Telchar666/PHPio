@@ -45,7 +45,7 @@
             <div class="row">
                 <div class="mbr-section col-md-10 col-md-offset-1 text-xs-center">
                     <div>
-                    <img src='assets/images/tatoo.svg' height='300'/>
+                    <img src='assets/images/Telchar.svg' height='300'/>
                     </div>
                     <div>
                     <a href="https://time.is/Lille" id="time_is_link" rel="nofollow" style="font-size:36px"> </a>
@@ -75,11 +75,11 @@
                     <div class="card-img iconbox" ><?php
                         $i=0;
         if ($val_array[$i][0] == 0 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-red.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-red.svg' onclick='change_pin (".$i.");'/>");
 		}
 		//if on
 		if ($val_array[$i][0] == 1 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-green.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-green.svg' onclick='change_pin (".$i.");'/>");
         }
          ?></div>
                     <div class="card-block">
@@ -97,11 +97,11 @@
                     <div class="card-img iconbox" ><?php
                         $i=1;
         if ($val_array[$i][0] == 0 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-red.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-red.svg' onclick='change_pin (".$i.");'/>");
 		}
 		//if on
 		if ($val_array[$i][0] == 1 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-green.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-green.svg' onclick='change_pin (".$i.");'/>");
         }
          ?></div>
                     <div class="card-block">
@@ -119,11 +119,11 @@
                     <div class="card-img iconbox"><?php
                         $i=2;
         if ($val_array[$i][0] == 0 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-red.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-red.svg' onclick='change_pin (".$i.");'/>");
 		}
 		//if on
 		if ($val_array[$i][0] == 1 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-green.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-green.svg' onclick='change_pin (".$i.");'/>");
         }
          ?></div>
                     <div class="card-block">
@@ -141,11 +141,11 @@
                     <div class="card-img iconbox"><?php
                         $i=3;
         if ($val_array[$i][0] == 0 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-red.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-red.svg' onclick='change_pin (".$i.");'/>");
 		}
 		//if on
 		if ($val_array[$i][0] == 1 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-green.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-green.svg' onclick='change_pin (".$i.");'/>");
         }
          ?></div>
                     <div class="card-block">
@@ -170,11 +170,11 @@
                     <div class="card-img iconbox" ><?php
                         $i=4;
         if ($val_array[$i][0] == 0 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-red.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-red.svg' onclick='change_pin (".$i.");'/>");
 		}
 		//if on
 		if ($val_array[$i][0] == 1 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-green.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-green.svg' onclick='change_pin (".$i.");'/>");
         }
          ?></div>
                     <div class="card-block">
@@ -192,11 +192,11 @@
                     <div class="card-img iconbox" ><?php
                         $i=5;
         if ($val_array[$i][0] == 0 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-red.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-red.svg' onclick='change_pin (".$i.");'/>");
 		}
 		//if on
 		if ($val_array[$i][0] == 1 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-green.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-green.svg' onclick='change_pin (".$i.");'/>");
         }
          ?></div>
                     <div class="card-block">
@@ -214,11 +214,11 @@
                     <div class="card-img iconbox"><?php
                         $i=6;
         if ($val_array[$i][0] == 0 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-red.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-red.svg' onclick='change_pin (".$i.");'/>");
 		}
 		//if on
 		if ($val_array[$i][0] == 1 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-green.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-green.svg' onclick='change_pin (".$i.");'/>");
         }
          ?></div>
                     <div class="card-block">
@@ -236,11 +236,11 @@
                     <div class="card-img iconbox"><?php
                         $i=7;
         if ($val_array[$i][0] == 0 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-red.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-red.svg' onclick='change_pin (".$i.");'/>");
 		}
 		//if on
 		if ($val_array[$i][0] == 1 ) {
-            echo ("<img id='button_".$i."' src='assests/images/power-green.svg' onclick='change_pin (".$i.");'/>");
+            echo ("<img id='button_".$i."' src='assets/images/power-green.svg' onclick='change_pin (".$i.");'/>");
         }
          ?></div>
                     <div class="card-block">
