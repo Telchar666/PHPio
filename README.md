@@ -10,7 +10,7 @@ But I changed the interface for a better one, more complex too.
 
 
 ```
-sudo apt-get install apache2 php5 git-core
+sudo apt-get install apache2 phpgit-core
 cd
 git clone git://git.drogon.net/wiringPi
 cd ~/wiringPi
