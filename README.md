@@ -10,20 +10,15 @@ But I changed the interface for a better one, more complex too.
 
 
 ```
-sudo apt-get install apache2 phpgit-core
-cd
-git clone git://git.drogon.net/wiringPi
-cd ~/wiringPi
-git pull origin
-cd ~/wiringPi
-./build
+sudo apt-get install apache2 php wiringpi
+
 sudo chmod 777 -R /var/www/html
 ```
 Now we can host a webpage on the rpi and control gpio pins.
 
 Whis part is optional but very useful to change the webinterface.
 ``` 	
-sudo apt-get install samba samba-common-bin
+sudo apt-get install samba
 sudo mv /etc/samba/smb.conf /etc/samba/smb.conf.old
 sudo nano /etc/samba/smb.conf
 ```
